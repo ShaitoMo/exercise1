@@ -1,1 +1,1 @@
-print('test.py');;git push origin main
+print('test.py')
